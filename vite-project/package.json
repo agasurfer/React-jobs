@@ -1,7 +1,7 @@
 {
   "name": "vite-project",
   "private": true,
-  "homepage": "https://agasurfer.githu.io/React-job",
+  "homepage": "https://agasurfer.githu.io/React-job/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
